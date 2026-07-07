@@ -1,36 +1,122 @@
-<h1 align="center">Hi 👋, I'm Roshan Pagare</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="center">Hi there, I'm Roshan Pagare 👋</h1>
+<h3 align="center">Java Full Stack Developer | SQL Server & MySQL | Backend Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanpagare45&label=Profile%20views&color=0e75b6&style=flat" alt="roshanpagare45" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshanpagare45" alt="roshanpagare45" /></a> </p>
-
-- 🔭 I’m currently working on **Deep Packet Inspection Engine**
-
-- 🌱 I’m currently learning **Spring Boot, Hibernate, REST APIs, React.js**
-
-- 👯 I’m looking to collaborate on **Java & Spring Boot backend projects**
-
-- 🤝 I’m looking for help with **Spring Boot, Microservices, and System Design**
-
-- 👨‍💻 All of my projects are available at [https://github.com/RoshanPagare45](https://github.com/RoshanPagare45)
-
-- 💬 Ask me about **Java, SQL Server, MySQL, Database Design**
-
-- 📫 How to reach me **roshanpagare85@gmail.com**
-
-- ⚡ Fun fact **I once built a tool that mimics how Jio/Airtel block websites**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roshan-pagare-8a4679374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshan-pagare-8a4679374" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/roshanpagare85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="roshanpagare85" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/roshanpagare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="roshanpagare" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:roshanpagare85@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/RoshanPagare/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/roshanpagare85" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RoshanPagare45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshanpagare45&show_icons=true&locale=en&layout=compact" alt="roshanpagare45" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshanpagare45&show_icons=true&locale=en" alt="roshanpagare45" /></p>
+### 👨‍💻 About Me
+
+- 🎓 Computer Science graduate with a strong foundation in **Java, Spring Boot, and SQL Server/MySQL**
+- 💼 Currently working as a **Java Full Stack Intern** at Test Yantra Software Solutions
+- 🛠️ Skilled in backend development, database design, query optimization, and OOP-based application design
+- 🔭 Currently building the **Deep Packet Inspection (DPI) Engine** — a Java-based network traffic analyzer
+- 🌱 Currently leveling up in **Spring Boot, Hibernate, REST APIs, and React.js**
+- 👯 Open to collaborating on **Java & Spring Boot backend projects**
+- 🤝 Looking for guidance in **Microservices and System Design**
+- 💬 Ask me about **Java, SQL Server, MySQL, and Database Design**
+- 📄 [View my Resume](#) <!-- add your resume link here -->
+- 📫 Reach me at **roshanpagare85@gmail.com**
+
+---
+
+### 🚀 Featured Projects
+
+**[Deep Packet Inspection (DPI) Engine](https://github.com/RoshanPagare45)**
+Java-based network traffic analyzer that parses PCAP files, extracts TLS SNI to identify 19+ applications, and implements rule-based filtering — simulating real-world ISP traffic management.
+`Java` `Networking` `TCP/IP` `HashMap`
+
+**[Smart PG Admission Portal](https://github.com/RoshanPagare45)**
+Full-stack admission management system with a normalized database schema and an integrated multilingual (English, Hindi, Marathi) chatbot handling 50+ FAQs.
+`Java` `MySQL` `REST API` `OOP`
+
+**[Electric Utility Billing System](https://github.com/RoshanPagare45)**
+Desktop billing application automating workflows with stored procedures and triggers, reducing manual billing errors by 60%.
+`Java` `MySQL` `OOP` `Multithreading`
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+</p>
+
+**Backend & Frameworks**
+<p>
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+</p>
+
+**Databases**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+</p>
+
+**Web & Tools**
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RoshanPagare45&show_icons=true&theme=default&count_private=true" alt="Roshan's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPagare45&layout=compact&theme=default" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanPagare45&theme=default" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RoshanPagare45&theme=flat&column=7&margin-w=10" alt="trophy" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://leetcode.com/u/RoshanPagare/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/roshanpagare85" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  </a>
+</p>
+
+<p align="center"><i>Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration. 🚀</i></p>
