@@ -33,12 +33,15 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 🎓 Computer Science graduate with a strong foundation in **Java, Spring Boot, and SQL Server/MySQL**
 - 💼 Currently a **Java Full Stack Intern** @ Test Yantra Software Solutions
 - 🛠️ Skilled in backend development, database design, query optimization, and OOP-based application design
 - 🔭 Currently building the **Deep Packet Inspection (DPI) Engine** — a Java-based network traffic analyzer
 - 🌱 Leveling up in **Spring Boot, Hibernate, REST APIs, and React.js**
 - 👯 Open to collaborating on **Java & Spring Boot backend projects**
+- ⚡ Fun fact: *I debug faster than I make chai* ☕😅
 - 📄 [View my Resume](#)
 - 📫 Reach me at **roshanpagare85@gmail.com**
 
@@ -92,6 +95,14 @@ Actively building and shipping new projects — check back for updates!
 </p>
 
 <br/>
+
+## ☕ Support
+
+<a href="https://www.buymeacoffee.com/simplified">
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" />
+</a>
+
+<br/><br/>
 
 ## 📊 GitHub Stats
 
