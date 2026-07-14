@@ -35,15 +35,14 @@
 
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🎓 Computer Science graduate with a strong foundation in **Java, Spring Boot, and SQL Server/MySQL**
-- 💼 Currently a **Java Full Stack Intern** @ Test Yantra Software Solutions
-- 🛠️ Skilled in backend development, database design, query optimization, and OOP-based application design
-- 🔭 Currently building the **Deep Packet Inspection (DPI) Engine** — a Java-based network traffic analyzer
-- 🌱 Leveling up in **Spring Boot, Hibernate, REST APIs, and React.js**
-- 👯 Open to collaborating on **Java & Spring Boot backend projects**
-- ⚡ Fun fact: *I debug faster than I make chai* ☕😅
-- 📄 [View my Resume](https://github.com/RoshanPagare45/RoshanPagare45/blob/main/Roshan_Pagare_Resume.pdf)
-- 📫 Reach me at **roshanpagare85@gmail.com**
+- Computer Science graduate with a strong foundation in **Java, Spring Boot, SQL Server, and MySQL**.
+- Currently working as a **Java Full Stack Intern** at **Test Yantra Software Solutions**.
+- Skilled in backend development, relational database design, query optimization, and object-oriented application development.
+- Currently developing the **Deep Packet Inspection (DPI) Engine**, a Java-based network traffic analyzer.
+- Continuously enhancing my expertise in **Spring Boot, Hibernate, REST APIs, React.js, and modern backend development**.
+- Open to collaborating on **Java, Spring Boot, and backend development projects**.
+- **Resume:** [Roshan_Pagare_Resume.pdf](https://github.com/RoshanPagare45/RoshanPagare45/blob/main/Roshan_Pagare_Resume.pdf)
+- **Email:** **roshanpagare85@gmail.com**
 
 <br/>
 
