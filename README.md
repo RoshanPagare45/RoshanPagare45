@@ -2,28 +2,30 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Roshan%20Pagare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20SQL%20Server%20%26%20MySQL&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="_blank">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat&logo=linkedin&logoColor=white" alt="open to work"/>
 </a>
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+%2F+SQL+Developer;Java+%7C+Spring+Boot+%7C+SQL+Server+%7C+MySQL;Building+clean%2C+scalable+database-driven+apps" alt="Typing SVG" />
 
-<p>
-  <a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:roshanpagare85@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/RoshanPagare/" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/roshanpagare85" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:roshanpagare85@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://leetcode.com/u/RoshanPagare/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
+</a>
+<a href="https://www.hackerrank.com/profile/roshanpagare85" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+</a>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=RoshanPagare45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
