@@ -10,22 +10,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+%2F+SQL+Developer;Java+%7C+Spring+Boot+%7C+SQL+Server+%7C+MySQL;Building+clean%2C+scalable+database-driven+apps" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:roshanpagare85@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://leetcode.com/u/RoshanPagare/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/profile/roshanpagare85" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
+<a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:roshanpagare85@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://leetcode.com/u/RoshanPagare/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.hackerrank.com/profile/roshanpagare85" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=RoshanPagare45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
