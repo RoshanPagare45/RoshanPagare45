@@ -42,7 +42,7 @@
 - 🌱 Leveling up in **Spring Boot, Hibernate, REST APIs, and React.js**
 - 👯 Open to collaborating on **Java & Spring Boot backend projects**
 - ⚡ Fun fact: *I debug faster than I make chai* ☕😅
-- 📄 [View my Resume](#)
+- 📄 [View my Resume](https://github.com/RoshanPagare45/RoshanPagare45/blob/main/Roshan_Pagare_Resume.pdf)
 - 📫 Reach me at **roshanpagare85@gmail.com**
 
 <br/>
