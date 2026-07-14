@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: snake-animation
+  cancel-in-progress: true
+
 jobs:
   generate:
     permissions:
@@ -17,9 +21,9 @@ jobs:
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
-          github_user_name: RoshanPagare45
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.svg?palette=github-light
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake.svg to the output branch
