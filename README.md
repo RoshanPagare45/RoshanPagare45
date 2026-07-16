@@ -1,42 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=200&section=header&text=Roshan%20Pagare&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20SQL%20Server%20%26%20MySQL&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1a1a2e&height=190&section=header&text=Roshan%20Pagare&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Java%20Full%20Stack%20Developer%20%7C%20Backend%20%26%20Database%20Engineering&descAlignY=56&descSize=16" width="100%"/>
 
 <a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="_blank">
   <img src="https://img.shields.io/badge/Open%20to%20Work-success?style=flat&logo=linkedin&logoColor=white" alt="open to work"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=RoshanPagare45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+%2F+SQL+Developer;Java+%7C+Spring+Boot+%7C+SQL+Server+%7C+MySQL;Building+clean%2C+scalable+database-driven+apps" alt="Typing SVG" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Backend+%2F+SQL+Developer;Java+%7C+Spring+Boot+%7C+SQL+Server+%7C+MySQL;Building+clean%2C+scalable%2C+database-driven+systems" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:roshanpagare85@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/RoshanPagare45/RoshanPagare45/blob/main/Roshan_Pagare_Resume.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-PDF-1a1a2e?style=flat&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 <a href="https://leetcode.com/u/RoshanPagare/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
 <a href="https://www.hackerrank.com/profile/roshanpagare85" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=RoshanPagare45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+- 🎯 **Backend & Database Engineer** specializing in **Java, Spring Boot, SQL Server, and MySQL** — currently a **Java Full Stack Intern** at **Test Yantra Software Solutions**.
+- 📈 Delivered measurable impact: reduced manual billing errors by **60%** through automated stored procedures, and built a chatbot resolving **50+ FAQs** across 3 languages.
+- 🔍 Currently engineering a **Deep Packet Inspection (DPI) Engine** — a Java-based network traffic analyzer identifying **19+ applications** from live PCAP data.
+- 🧱 Strong foundation in relational database design, query optimization, REST APIs, and object-oriented system design.
+- 🌱 Actively expanding into **Hibernate, React.js, and cloud-native backend architecture**.
+- 🤝 Open to collaborating on Java / Spring Boot / backend engineering projects — always happy to connect.
 
-- Computer Science graduate with a strong foundation in **Java, Spring Boot, SQL Server, and MySQL**.
-- Currently working as a **Java Full Stack Intern** at **Test Yantra Software Solutions**.
-- Skilled in backend development, relational database design, query optimization, and object-oriented application development.
-- Currently developing the **Deep Packet Inspection (DPI) Engine**, a Java-based network traffic analyzer.
-- Continuously enhancing my expertise in **Spring Boot, Hibernate, REST APIs, React.js, and modern backend development**.
-- Open to collaborating on **Java, Spring Boot, and backend development projects**.
-- **Resume:** [Roshan_Pagare_Resume.pdf](https://github.com/RoshanPagare45/RoshanPagare45/blob/main/Roshan_Pagare_Resume.pdf)
-- **Email:** **roshanpagare85@gmail.com**
+<br/>
+
+## 🧭 Quick Facts
+
+| | |
+|---|---|
+| 🎓 **Focus Area** | Backend Development · Database Engineering |
+| 💼 **Current Role** | Java Full Stack Intern @ Test Yantra Software Solutions |
+| 📍 **Based In** | India |
+| ✅ **Status** | Open to full-time opportunities |
+| 📧 **Email** | roshanpagare85@gmail.com |
+
+<br/>
+
+## 🧑‍💼 Experience & Education
+
+```text
+2026 – Present     Java Full Stack Intern, Test Yantra Software Solutions
+                    → Building backend services and database-driven applications
+                    → Developing the Deep Packet Inspection (DPI) Engine
+
+2026 – Present      Master of Computer Applications (MCA) — Pursuing (SY)
+                    → Gokhale Education Society's R. H. Sapat College of
+                      Engineering, Management Studies and Research, Nashik
+```
+> 💡 *Add your CGPA/percentage once available — that's the one remaining detail recruiters look for.*
 
 <br/>
 
@@ -44,36 +61,40 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔍 [Deep Packet Inspection Engine](https://github.com/RoshanPagare45)
-Java-based network traffic analyzer that parses PCAP files and extracts TLS SNI to identify 19+ applications, simulating real-world ISP traffic management.
+**🔍 [Deep Packet Inspection Engine](https://github.com/RoshanPagare45)**
+
+Java-based network traffic analyzer parsing PCAP files to extract TLS SNI and identify **19+ applications**, simulating real-world ISP traffic management.
 
 `Java` `Networking` `TCP/IP` `HashMap`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏫 [Smart PG Admission Portal](https://github.com/RoshanPagare45)
-Full-stack admission system with a normalized database schema and multilingual (English, Hindi, Marathi) chatbot handling 50+ FAQs.
+**🏫 [Smart PG Admission Portal](https://github.com/RoshanPagare45)**
+
+Full-stack admission system with a normalized database schema and a multilingual (English, Hindi, Marathi) chatbot handling **50+ FAQs**.
 
 `Java` `MySQL` `REST API` `OOP`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ [Electric Utility Billing System](https://github.com/RoshanPagare45)
-Desktop billing application automating workflows with stored procedures and triggers, reducing manual billing errors by 60%.
+**⚡ [Electric Utility Billing System](https://github.com/RoshanPagare45)**
+
+Desktop billing application automating workflows with stored procedures and triggers — cut manual billing errors by **60%**.
 
 `Java` `MySQL` `OOP` `Multithreading`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💡 More coming soon...
-Actively building and shipping new projects — check back for updates!
+**💡 More in progress**
+
+Actively building and shipping new backend projects. Check my pinned repositories for the latest.
 
 </td>
 </tr>
@@ -83,68 +104,65 @@ Actively building and shipping new projects — check back for updates!
 
 ## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,js,html,css,react,mysql,oracle,mongodb,nodejs,git,idea,eclipse" />
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js" />
+
+**Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,html,css" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,idea,eclipse,postman" />
 
 <br/>
 
-## ☕ Support
-
-<a href="https://www.buymeacoffee.com/simplified">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buy me a coffee" />
-</a>
-
-<br/><br/>
-
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RoshanPagare45&show_icons=true&theme=default&count_private=true&hide_border=true" alt="Roshan's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPagare45&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoshanPagare45&layout=compact&theme=default&hide_border=true" alt="Top Languages" width="38%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanPagare45&theme=default&hide_border=true" alt="GitHub Streak" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoshanPagare45&theme=default&hide_border=true" alt="GitHub Streak" width="65%"/>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RoshanPagare45&theme=flat&column=7&margin-w=10&no-bg=true&no-frame=true" alt="trophy" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=RoshanPagare45&theme=flat&column=6&margin-w=8&no-bg=true&no-frame=true" alt="trophy" />
 </div>
 
 <br/>
 
 ## 🐍 Contribution Graph
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RoshanPagare45/RoshanPagare45/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RoshanPagare45/RoshanPagare45/output/github-contribution-grid-snake.svg">
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/RoshanPagare45/RoshanPagare45/output/github-contribution-grid-snake.svg"
-    width="100%"
-  />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/RoshanPagare45/RoshanPagare45/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 </div>
 
 <br/>
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/RoshanPagare/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/roshanpagare85" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
+
+<a href="https://www.linkedin.com/in/roshan-pagare-8a4679374/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:roshanpagare85@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/u/RoshanPagare/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Profile-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
+
+<br/><br/>
+
+<i>Thanks for stopping by — feel free to explore my repositories and reach out for collaboration or opportunities. 🚀</i>
+
 </div>
 
-<p align="center"><i>Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration. 🚀</i></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0e75b6&height=90&section=footer" width="100%"/>
